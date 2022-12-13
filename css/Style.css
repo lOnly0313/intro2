@@ -1,0 +1,122 @@
+@import url(sanitize.css);
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+header {
+    background-color: lightslategray;
+    padding: 10px;
+    color: #fff;
+}
+h1 {
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+.container {
+    width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .4);
+    background-color: black;
+}
+.content {
+    text-align: center;
+    background-color: #a9a9a9;
+    margin: 0px auto;
+    padding: 30px;
+}
+.introduction h4 {
+    font-size: 20px;
+    margin: 0;
+    background-color: lightslategray;
+    padding: 0 auto;
+    color: powderblue;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.preface img{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-md-4 span{
+    padding-left: 100px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 17px;
+    color: darkred;
+}
+.col-md-8 span{
+    padding-left: 150px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 17px;
+    color: darkred;
+}
+.col-md-4 ul{
+    padding-left: 150px;
+    margin: 5;
+    color: maroon;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.col-md-8 ol{
+    padding-left: 280px;
+    margin: 5;
+    color: maroon;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.col-md-6 p{
+    text-align: left;
+    color: maroon;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.hobby h4{
+    font-size: 20px;
+    margin: 0;
+    background-color: lightslategray;
+    padding: 0 auto;
+    color: powderblue;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.hobby ul{
+    padding-left: 270px;
+    margin: 5;
+    color: maroon;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.hobby li{
+    width: 45%;
+    text-align: center;
+    color: maroon;
+}
+.preface p span{
+    font-weight: bold;
+    font-family: 'Hachi Maru Pop', cursive;
+    font-size: 20px;
+}
+.preface p{
+    font-family: 'Hachi Maru Pop', cursive;
+}
+h5{
+    font-size: 20px;
+    margin: 0;
+    background-color: lightslategray;
+    padding: 0 auto;
+    color: powderblue; 
+    font-family: 'Yusei Magic', sans-serif; 
+}
+ul{
+    padding: 5;
+    margin: 5;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+li{
+    width: 100%;
+    text-align: left;
+}
+h4{
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.map p{
+    padding-top: 20px;
+}
